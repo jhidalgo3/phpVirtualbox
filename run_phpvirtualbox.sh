@@ -5,4 +5,4 @@ docker run --name vbox_http \
     -e ID_USER=<USER> \
     -e ID_PW='<PASSWORD>' \
     -e CONF_browserRestrictFolders="/data,/home" \
-    -d jazzdd/phpvirtualbox
+    -d jhidalgo3/phpvirtualbox
